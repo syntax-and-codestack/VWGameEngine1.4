@@ -11,7 +11,6 @@ public:
  void * m_vaData;//user pre vertex data
  set<Edge> m_meshedgeSet; //adjacent edges
  set<Triangle> m_meshTrianglesSet; //adjacent triangles
-
 };
 
 
