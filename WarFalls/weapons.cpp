@@ -1,3 +1,4 @@
+#include "EngineIncludes/GameTypes.h"
 
 #define WEAPON_FLAGS 1 || 0 || 1
 
